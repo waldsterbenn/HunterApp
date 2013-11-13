@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hunter</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_almanarc">Almanarc</string>
+    <string name="drawer_animals">Animals</string>
+    <string name="drawer_emergency">Emergency</string>
+
+    <string name="emergency_contact">Animal emergency</string>
+    <string name="emergency_nearest_schweiss">Nearest schweiss</string>
+    <string name="emergency_schwissdk">http://www.schweiss.dk/hunters-map</string>
+    <string name="emergency_map">Map</string>
+    <string name="emergency_phone">Phone</string>
+    <string name="emergency_alarm_number">1812</string>
+
+
+
+</resources>
